@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on WebApp/Fullstack Projects<br>👯 I’m looking to collaborate on Open Source projects and Research at UTD<br>🤝 I’m looking for help with learning API's and System Design<br>🌱 I’m currently learning IT Certifications<br>💬 Ask me about Anime<br>⚡ Also I make game mods.
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/VicAlexSim?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/VicAlexSim?ext=heatmap?theme=nord)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorasim) 
