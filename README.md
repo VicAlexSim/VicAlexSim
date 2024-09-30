@@ -26,6 +26,7 @@
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/docs)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
+[![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/)
 <br>
 
 <!-- MERN Stack -->
