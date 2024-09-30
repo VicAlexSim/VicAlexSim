@@ -21,13 +21,22 @@
 
   
 ### Tools I've Been Using
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/doc)
-[![GithubActions](https://skillicons.dev/icons?i=githubactions)](https://docs.github.com/en/actions)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docs.docker.com/)
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/docs)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![Tensorflow](https://skillicons.dev/icons?i=tensorflow)](https://www.tensorflow.org/)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org/docs/stable/index.html)
 [![Anaconda](https://skillicons.dev/icons?i=anaconda)](https://www.anaconda.com/)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/#)
+[![GCP](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/?hl=en)
+[![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![NPM](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
+[![PostGres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![SKlearn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org/)
+[![Selenium](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev/)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com/)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/guide/)
 <br>
 
 <!-- MERN Stack -->
@@ -52,6 +61,9 @@
 
 <!-- Other -->
 [![Java Processing](https://skillicons.dev/icons?i=processing)](https://processing.org/reference/)
+[![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/doc)
+[![GithubActions](https://skillicons.dev/icons?i=githubactions)](https://docs.github.com/en/actions)
 <br>
 
 ### Hardware
