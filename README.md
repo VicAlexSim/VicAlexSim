@@ -17,6 +17,7 @@
 [![JavaScript](https://skillicons.dev/icons?i=javascript)](https://www.w3schools.com/jsrEF/default.asp)
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/docs/)
 [![Swift](https://skillicons.dev/icons?i=swift)](https://www.swift.org/documentation/)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 
   
 ### Tools I've Been Using
