@@ -1,3 +1,8 @@
+# 🧠 Contributions & Stats
+![](https://github-readme-activity-graph.vercel.app/graph?username=VicAlexSim&theme=transparent&hide_border=false&area=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=VicAlexSim&theme=transparent&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=VicAlexSim&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
+
 # 💫 About Me:
 🔭 I’m currently working on Fullstack/AI related Projects<br>👯 I’m looking to collaborate on more Open Source projects and Research atm<br>🤝 I’m looking for help with learning more API's and System Design<br>🌱 I’m currently learning about Tech/IT Certifications & WebDev<br>💬 Ask me about Anime<br>⚡ Also I make game mods. <br> Read my recent research paper! https://arxiv.org/abs/2505.21549v3
 
