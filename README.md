@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on WebApp/Fullstack Projects<br>👯 I’m looking to collaborate on Open Source projects and Research at UTD<br>🤝 I’m looking for help with learning API's and System Design<br>🌱 I’m currently learning about IT Certifications & WebDev<br>💬 Ask me about Anime<br>⚡ Also I make game mods.
+🔭 I’m currently working on WebApp/Fullstack Projects<br>👯 I’m looking to collaborate on Open Source projects and Research at UTD<br>🤝 I’m looking for help with learning API's and System Design<br>🌱 I’m currently learning about IT Certifications & WebDev<br>💬 Ask me about Anime<br>⚡ Also I make game mods. <br> Read my recent research paper! https://arxiv.org/abs/2505.21549v3
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/VicAlexSim?ext=heatmap)
 
